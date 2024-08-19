@@ -1,0 +1,4 @@
+source;share/sid_robo/local_setup.bash
+source;share/sid_robo/local_setup.dsv
+source;share/sid_robo/local_setup.sh
+source;share/sid_robo/local_setup.zsh
